@@ -154,7 +154,8 @@ LIST	Released Year	Watch Day	 My rate	Note
 - Dangal	2016	4.3.2019		Đô vật, phim của anh đóng 3 idiots
 - Avenger Endgame	2019	27.4.2019		
 - Spider-Man: Into the Spider-Verse	2018	5.5.2019		
-- Captain Marvel	2019	1.6.2019		
+- Captain Marvel	2019	1.6.2019
+- Anaconda 1997 Phim mãng xà ăn thịt người
 # List 2
 - Người sói hồi sinh	
 - Forrest Gump	
@@ -265,9 +266,7 @@ LIST	Released Year	Watch Day	 My rate	Note
 | Disney Channel |   | 
 | Cartoon Network	 |   |  
 | Oggy and the Cockroaches	 |   | 
-| Tay bắn bi cự phách	 |   |  
-| |   |   |   |   |
-
+| Tay bắn bi cự phách	 
 				
 			
 				
