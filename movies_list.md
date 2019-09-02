@@ -156,6 +156,7 @@ LIST	Released Year	Watch Day	 My rate	Note
 - Spider-Man: Into the Spider-Verse	2018	5.5.2019		
 - Captain Marvel	2019	1.6.2019
 - Anaconda 1997 Phim mãng xà ăn thịt người
+- X-Men: Dark Phoenix | 2019 | 31.8.2019
 # List 2
 - Người sói hồi sinh	
 - Forrest Gump	
@@ -184,7 +185,8 @@ LIST	Released Year	Watch Day	 My rate	Note
 - The imitation game	
 - A beautiful mind ( John Fobes Nash )	
 - Good Will Hunting	11.7.2017
-- Truy Tìm Tượng Phật 1-Ong Bak 1	
+- Truy Tìm Tượng Phật 1-Ong Bak 1
+
 # Chau Tinh Tri
 - Châu Tinh Trì
 - Quốc săn 007
@@ -266,7 +268,8 @@ LIST	Released Year	Watch Day	 My rate	Note
 | Disney Channel |   | 
 | Cartoon Network	 |   |  
 | Oggy and the Cockroaches	 |   | 
-| Tay bắn bi cự phách	 
+| Tay bắn bi cự phách
+- Pokemon
 				
 			
 				
