@@ -5,11 +5,9 @@
 - TV series							
 - shameless									
 - love death & robots					
-- Once Upon a Time in Hollywood					
-- shazam	no, this movie is for kids.				
+- Once Upon a Time in Hollywood				
 - Twelve Monkey TV series					
-- Cosmos 2019					
-- X Men: dark phoenix sucks by reviewers					
+- Cosmos 2019									
 - Get Out (2017)					
 - A.I (2011)					
 - Transformer 2018	da co				
