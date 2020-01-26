@@ -135,14 +135,7 @@
 - Thuyền Hoa	Quang Linh & Hà Phương	
 - Yêu Em Dài Lâu	 Elvis Phương	
 - Album Thu Hiền 2015 Hay Nhất	playlist thu hien	
-# Tru tinh, mien Tay
-- Đường về hai thôn
-- xót xa Trường Vũ
-- Nối Lại Tình Xưa - Lâm Bảo Phi ft Dương Hồng Loan
-- Bài Ca Kỷ Niệm - Huỳnh Nguyễn Công Bằng ft. Lưu Ánh Loan
-- Nếu Chúng Mình Cách Trở - Huỳnh Nguyễn Công Bằng ft. Lưu Ánh Loan
-- thư gửi em gái thành đô duy khánh
-- Quang Vinh - Nếu Lúc Trước Em Đừng Tới
+
 # China
 - hoa moc lan	Trac Y Dinh			
 - Ven Rem Chau	Hoang Ton			
@@ -166,18 +159,52 @@
 - Dem thoi gian	
 - Thằng Hề Khóc dương 565	
 - Katy Katy - Lam Truong	
+- Dịu dàng sắc xuân - Mỹ Tâm - bài này hồi trước ở KTX gần tết là có thằng méo nào ở một trong các phòng bên cạnh cứ bật làm buồn vch.
+- Điệp khúc mùa xuân
+- Xẻ Đôi Trái Tim - Lương Gia Huy
+- Bài Tango Buồn - Lương Gia Huy
+- Chỉ còn mình anh Lê Hiếu
+- Thấm Thía - Tống Gia Vỹ
+- Tình em biển rộng sông dài - Duy Khánh
+- Tàu về quê hương » Hương Lan
+- Gió Về Miền Xuôi - Duy Khánh
+- Điều Gì Sẽ Đến Saka Trương Tuyền
+- Ta Di Tim Em - Kim Minh Huy
+- Ba Tháng Tạ Từ - Duy Khánh 
+- Xa Magic Z 
+- Hai Ba Năm - Phạm Trưởng 
+- Không Gì Là Không Thể - Tống Gia Vỹ
+- Không Giới Hạn - Tim, Khổng Tú Quỳnh
+- Trang Giấy Trắng - Phạm Trưởng
+- Ngày Mai - Lil Shady
+
+# Tru tinh, mien Tay
+- Đường về hai thôn
+- xót xa Trường Vũ
+- Nối Lại Tình Xưa - Lâm Bảo Phi ft Dương Hồng Loan
+- Bài Ca Kỷ Niệm - Huỳnh Nguyễn Công Bằng ft. Lưu Ánh Loan
+- Nếu Chúng Mình Cách Trở - Huỳnh Nguyễn Công Bằng ft. Lưu Ánh Loan
+- thư gửi em gái thành đô duy khánh
+- Quang Vinh - Nếu Lúc Trước Em Đừng Tới
+- Qua cơn mê - Duy Khánh
+
+
 # Nhac do.
 - Bác đang cùng chúng cháu hành quân.
 - Hát mãi khúc quân hành
 - Đừng hỏi Tổ Quốc đã làm gì cho ta
 - Tiến bước dưới quân kỳ
 - Chào em cô gái Lam Hồng
-- Cô Gái Mở Đường [Official Video]
+- Cô Gái Mở Đường
 - Hành Khúc Ngày Và Đêm
 - Chiếc gậy Trường Sơn
 - Đường tôi đi dài theo đất nước
 - Tiếng Chày Trên Sóc Bom Bo (Có Lời)
 - Năm Anh Em Trên Một Chiếc Xe Tăng
+- Tình ca Tây Bắc
+- Tình Ca Mùa Xuân - Cẩm Ly ft. Quốc Đại
+Loi Nguoi Ra Di - Thu Hien
+
 # EDM
 - Tình yêu bất tận 	HKT
 - Nothing's Gonna Change My Love For You	
