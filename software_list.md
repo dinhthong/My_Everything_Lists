@@ -31,7 +31,8 @@
 - Orcad + Orcad layout		
 - matlab		
 - LabVIEW		
-- altium designer		
+- altium designer
+- Circuit Maker
 - autocad + solidwork. một cái vẽ 2d một cái vẽ 3d		
 - Psim điện tử công suất		
 - TIA Portal + PLCSim: bo cai mo phong PLC		
@@ -47,7 +48,10 @@
 - STMStudio: theo dõi biến dạng đồ thị		
 - Terminal		
 - Hercules		
-- Virtual Serial Port Driver		
+- Virtual Serial Port Driver: create virtual serial port
 - fritzing	vẽ mạch một cách trực quan như trong các bài arduino	
 - Citect SCADA	môn SCADA 	
 - Unity Pro	Tự động hóa công nghiệp	
+
+# Others
+- Beyond Compare
