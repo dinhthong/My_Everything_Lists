@@ -3,6 +3,9 @@
 - Simple list to keep update of my book list, watch list, wish list...
 - When somebody asks me if I've ever heard or watched this movie, then I could just reference to this repo
 
+# My book list
+- Few of the books I keep hard cover copies, but most of them are in digital form
+
 # Requirements
 For every list there should be a appropriate template but, in the simplest term
 - Name
@@ -10,7 +13,8 @@ For every list there should be a appropriate template but, in the simplest term
 - Tags...
 
 # Todolist
-- Looks like 
+- Looks like there should be an app or website designed for this only purpose
+- Somebody should keep their personal list, and this could be an interesting project for IT developers :), unfortunately I'm not one.
 
 # References
 # Update
