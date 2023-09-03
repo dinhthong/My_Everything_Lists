@@ -269,9 +269,3 @@ LIST	Released Year	Watch Day	 My rate	Note
 | Tay bắn bi cự phách
 - Pokemon
 				
-			
-				
-				
-					
-					
-		

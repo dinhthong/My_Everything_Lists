@@ -17,6 +17,7 @@ For every list there should be a appropriate template but, in the simplest term
 - Somebody should keep their personal list, and this could be an interesting project for IT developers :), unfortunately I'm not one.
 
 # References
+- https://github.com/amsaha/my-reading-list
 # Update
 3 February 2021:
 This list is deprecated and shouldn't be updated anymore cause I've move all my list cho personal Access file for better management.
